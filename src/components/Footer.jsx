@@ -36,22 +36,22 @@ export default function Footer() {
             <h4 className="text-white mb-3">Contact</h4>
             <p className="mb-2">
               <i className="fa fa-map-marker-alt me-3" />
-              Charu Arcade, Booking Office- Yubraj Hotel, Biswa Singha Rd, Cooch Behar, West Bengal 736101
+              Park Road, Alipurduar, West Bengal 736121
             </p>
             <p className="mb-2">
               <i className="fa fa-phone-alt me-3" />
-              099322 04885
+              098324 64821
             </p>
             <p className="mb-2">
               <i className="fa fa-envelope me-3" />
-              info@coochbehartravel.com
+              indutourstravel2016@lgmail.com
 
             </p>
             <div className="d-flex pt-2">
               <a className="btn btn-outline-light btn-social" href="/">
                 <i className="fab fa-twitter" />
               </a>
-              <a className="btn btn-outline-light btn-social" href="https://www.facebook.com/Coochbehartravel/">
+              <a className="btn btn-outline-light btn-social" href="https://www.facebook.com/InduToursAndTravels/">
                 <i className="fab fa-facebook-f" />
               </a>
               <a className="btn btn-outline-light btn-social" href="">
@@ -137,7 +137,7 @@ export default function Footer() {
             <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
               ©{" "}
               <a className="" href="#">
-                CoochBeharTravel
+                InduToursTravel
               </a>
               , 2025 All Right Reserved.
               {/* Designed By{" "} */}

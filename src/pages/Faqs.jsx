@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { Container, Row, Col, Card, Accordion } from "react-bootstrap";
 
 const FAQs = () => {
@@ -58,9 +58,9 @@ const FAQs = () => {
                     <Accordion.Body>
                       You can reach our support team via:
                       <ul>
-                        <li><strong>Email:</strong> support@coochbehartravel.com</li>
-                        <li><strong>Phone:</strong> 099322 04885</li>
-                        <li><strong>Address:</strong> Charu Arcade, Booking Office - Yubraj Hotel, Biswa Singha Rd, Cooch Behar, West Bengal 736101</li>
+                        <li><strong>Email:</strong> indutourstravel2016@gmail.com</li>
+                        <li><strong>Phone:</strong> 098324 64821</li>
+                        <li><strong>Address:</strong> Park Road, Alipurduar, West Bengal 736121</li>
                       </ul>
                     </Accordion.Body>
                   </Accordion.Item>

@@ -31,7 +31,7 @@ const TermsConditions = () => {
         </div>
 
         {/* Terms & Conditions Start */}
-        <Container className="py-10">
+        <Container className="py-5">
           <Row className="justify-content-center">
             <Col md={10}>
               <Card className="shadow p-4">
@@ -74,13 +74,13 @@ const TermsConditions = () => {
                 <p>If you have any questions, contact us at:</p>
                 <ul>
                   <li>
-                    <strong>Email:</strong> info@coochbehartravel.com
+                    <strong>Email:</strong> indutourstravel2016@gmail.com
                   </li>
                   <li>
-                    <strong>Phone:</strong> 099322 04885
+                    <strong>Phone:</strong> 098324 64821
                   </li>
                   <li>
-                    <strong>Address:</strong> Charu Arcade, Booking Office- Yubraj Hotel, Biswa Singha Rd, Cooch Behar, West Bengal 736101
+                    <strong>Address:</strong> Park Road, Alipurduar, West Bengal 736121
                   </li>
                 </ul>
               </Card>

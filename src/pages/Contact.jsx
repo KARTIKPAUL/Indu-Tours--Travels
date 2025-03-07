@@ -52,7 +52,7 @@ function Contact() {
               </div>
               <div className="ms-3">
                 <h5 className="text-primary">Office</h5>
-                <p className="mb-0">Charu Arcade, Booking Office- Yubraj Hotel, Biswa Singha Rd, Cooch Behar, West Bengal 736101</p>
+                <p className="mb-0"> Park Road, Alipurduar, West Bengal 736121</p>
               </div>
             </div>
             <div className="d-flex align-items-center mb-4">
@@ -64,7 +64,7 @@ function Contact() {
               </div>
               <div className="ms-3">
                 <h5 className="text-primary">Mobile</h5>
-                <p className="mb-0">099322 04885</p>
+                <p className="mb-0">098324 64821</p>
               </div>
             </div>
             <div className="d-flex align-items-center">
@@ -76,14 +76,15 @@ function Contact() {
               </div>
               <div className="ms-3">
                 <h5 className="text-primary">Email</h5>
-                <p className="mb-0">info@coochbehartravel.com</p>
+                <p className="mb-0">indutourstravel2016@lgmail.com</p>
               </div>
             </div>
           </div>
           <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+          
           <iframe 
               className="position-relative rounded w-100 h-100"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3576.0874518902833!2d89.44245457541926!3d26.323667577003125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e2fc281e3924bd%3A0xefe202ee916d9beb!2sYubraj%20Hotel!5e0!3m2!1sen!2sin!4v1741254225729!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3570.722253242359!2d89.52776547542517!3d26.496886276897587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e2573897c82141%3A0xa254d59ac4557c17!2sPark%20Road%2C%20Alipurduar%2C%20Sobhaganj%2C%20West%20Bengal%20736121!5e0!3m2!1sen!2sin!4v1741346713236!5m2!1sen!2sin"
               frameBorder={0}
               style={{ minHeight: 300, border: 0 }}
               allowFullScreen=""

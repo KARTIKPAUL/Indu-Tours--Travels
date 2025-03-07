@@ -10,7 +10,7 @@ const PrivacyPolicy = () => {
             <div className="row justify-content-center py-5">
               <div className="col-lg-10 pt-lg-5 mt-lg-5 text-center">
                 <h1 className="display-3 text-white animated slideInDown">
-                  Privacy-Policy
+                  Privacy Policy
                 </h1>
                 <nav aria-label="breadcrumb">
                   <ol className="breadcrumb justify-content-center">
@@ -21,7 +21,7 @@ const PrivacyPolicy = () => {
                       className="breadcrumb-item text-white active"
                       aria-current="page"
                     >
-                      Privacy-Policy
+                      Privacy Policy
                     </li>
                   </ol>
                 </nav>
@@ -30,8 +30,8 @@ const PrivacyPolicy = () => {
           </div>
         </div>
 
-        {/* Contact Start */}
-        <Container className="py-10">
+        {/* Privacy Policy Start */}
+        <Container className="py-5">
           <Row className="justify-content-center">
             <Col md={10}>
               <Card className="shadow p-4">
@@ -42,63 +42,55 @@ const PrivacyPolicy = () => {
 
                 <h4>1. Information We Collect</h4>
                 <p>
-                  <strong>Personal Information:</strong> We may collect your
-                  name, email, phone number, payment details, and travel
-                  preferences.
+                  <strong>Personal Information:</strong> We may collect your name, email, phone number, payment details, and travel preferences.
                 </p>
                 <p>
-                  <strong>Non-Personal Information:</strong> This includes your
-                  IP address, browser type, and cookies data.
+                  <strong>Non-Personal Information:</strong> This includes your IP address, browser type, and cookies data.
                 </p>
 
                 <h4>2. How We Use Your Information</h4>
                 <p>
-                  We use your information to process bookings, improve services,
-                  and send travel updates.
+                  We use your information to process bookings, improve services, and send travel updates.
                 </p>
 
                 <h4>3. Sharing Your Information</h4>
                 <p>
-                  We do not sell your data. However, we may share it with
-                  trusted partners for booking purposes.
+                  We do not sell your data. However, we may share it with trusted partners for booking purposes.
                 </p>
 
                 <h4>4. Data Security</h4>
                 <p>
-                  We take appropriate security measures to protect your data
-                  from unauthorized access.
+                  We take appropriate security measures to protect your data from unauthorized access.
                 </p>
 
                 <h4>5. Cookies and Tracking</h4>
                 <p>
-                  We use cookies to enhance your experience. You can manage
-                  cookies through browser settings.
+                  We use cookies to enhance your experience. You can manage cookies through browser settings.
                 </p>
 
                 <h4>6. Your Rights</h4>
                 <p>
-                  You have the right to access, update, or delete your personal
-                  information.
+                  You have the right to access, update, or delete your personal information.
                 </p>
 
                 <h4>7. Contact Us</h4>
                 <p>If you have any questions, contact us at:</p>
                 <ul>
                   <li>
-                    <strong>Email:</strong> info@coochbehartravel.com
+                    <strong>Email:</strong> indutourstravel2016@gmail.com
                   </li>
                   <li>
-                    <strong>Phone:</strong> 099322 04885
+                    <strong>Phone:</strong> 098324 64821
                   </li>
                   <li>
-                    <strong>Address:</strong> Charu Arcade, Booking Office- Yubraj Hotel, Biswa Singha Rd, Cooch Behar, West Bengal 736101
+                    <strong>Address:</strong> Park Road, Alipurduar, West Bengal 736121
                   </li>
                 </ul>
               </Card>
             </Col>
           </Row>
         </Container>
-        {/* Contact End */}
+        {/* Privacy Policy End */}
       </div>
     </>
   );

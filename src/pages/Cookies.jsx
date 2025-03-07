@@ -67,9 +67,9 @@ const CookiesPolicy = () => {
                 <h4>6. Contact Us</h4>
                 <p>If you have any questions about our Cookies Policy, contact us at:</p>
                 <ul>
-                  <li><strong>Email:</strong> info@coochbehartravel.com</li>
-                  <li><strong>Phone:</strong> 099322 04885</li>
-                  <li><strong>Address:</strong> Charu Arcade, Booking Office - Yubraj Hotel, Biswa Singha Rd, Cooch Behar, West Bengal 736101</li>
+                  <li><strong>Email:</strong> indutourstravel2016@gmail.com</li>
+                  <li><strong>Phone:</strong> 098324 64821</li>
+                  <li><strong>Address:</strong> Park Road, Alipurduar, West Bengal 736121</li>
                 </ul>
               </Card>
             </Col>

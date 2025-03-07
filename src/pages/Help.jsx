@@ -31,13 +31,13 @@ const Help = () => {
         </div>
 
         {/* Help Section Start */}
-        <Container className="py-10">
+        <Container className="py-5">
           <Row className="justify-content-center">
             <Col md={10}>
               <Card className="shadow p-4">
                 <h2 className="text-center text-primary mb-4">How Can We Help?</h2>
                 <p>
-                  At <strong>CoochBeharTravel</strong>, we are dedicated to providing
+                  At <strong>Indu Tours & Travels</strong>, we are dedicated to providing
                   excellent customer support. Below, you will find answers to some
                   of the most frequently asked questions.
                 </p>
@@ -68,14 +68,13 @@ const Help = () => {
                 </p>
                 <ul>
                   <li>
-                    <strong>Email:</strong> support@coochbehartravel.com
+                    <strong>Email:</strong> indutourstravel2016@gmail.com
                   </li>
                   <li>
-                    <strong>Phone:</strong> 099322 04885
+                    <strong>Phone:</strong> 098324 64821
                   </li>
                   <li>
-                    <strong>Address:</strong> Charu Arcade, Booking Office - Yubraj Hotel, 
-                    Biswa Singha Rd, Cooch Behar, West Bengal 736101
+                    <strong>Address:</strong> Park Road, Alipurduar, West Bengal 736121
                   </li>
                 </ul>
 
